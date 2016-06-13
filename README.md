@@ -1,1 +1,2 @@
-# EXERCISE-Maven-in-action-book
+学习《Maven实战》[1]一书时的练习代码、书中的源码。
+[^1]: Maven实战/徐晓斌著，机械工业出版社，2010.11
